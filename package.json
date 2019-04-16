@@ -14,13 +14,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.4.2",
-    "common-errors": "^0.5.3",
+    "async": "^2.6.2",
+    "common-errors": "^1.0.5",
     "continuation-local-storage": "^3.1.4",
     "extend": "^3.0.0",
     "inherits": "^2.0.1",
     "q": "^1.4.1",
-    "request-promise": "^1.0.1",
+    "request-promise": "^4.2.4",
     "shortid": "^2.2.4",
     "traverse": "^0.6.6"
   }
